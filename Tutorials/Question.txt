@@ -1,0 +1,9 @@
+Tuto 1.2 Q2:
+What dose "undetectable above the background noise by the eye" mean? when above the background noise isn't it detectable??
+
+Tuto 1.4 Exercise:
+How to know the f_lower of GW170817
+
+Tuto 2.1 Below Cell[3]:
+In this case we can interpret the cross-correlation of the signal with white noise as a signal-to-noise ratio.
+WHAT DOSE THIS EVEN MEAN???
